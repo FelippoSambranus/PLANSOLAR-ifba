@@ -4,75 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Plan Solar - Sobre</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f0f4f8;
-        }
-        header {
-            background-color: #003366;
-            padding: 15px;
-            color: #ffcc00;
-            text-align: center;
-            font-size: 24px;
-            font-weight: bold;
-        }
-        nav {
-            display: flex;
-            justify-content: center;
-            background-color: #003366;
-            padding: 10px 0;
-        }
-        nav a {
-            color: white;
-            margin: 0 15px;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            text-align: center;
-        }
-        h1 {
-            color: #003366;
-            font-size: 28px;
-            margin-bottom: 10px;
-        }
-        p {
-            color: #666;
-            font-size: 18px;
-            line-height: 1.6;
-            margin-bottom: 20px;
-        }
-        .section {
-            background-color: #ffffff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            margin-top: 20px;
-        }
-        .section h2 {
-            color: #003366;
-            font-size: 24px;
-            margin-bottom: 10px;
-        }
-        .section p {
-            font-size: 16px;
-            color: #333;
-        }
-    </style>
+    <link rel="stylesheet" href="css/sobre.css">
 </head>
 <body>
     <header>Plan Solar</header>
     <nav>
-        <a href="leoleo.html">Início</a>
-        <a href="sobre.html">Sobre</a>
-        <a href="serviço.html">Serviços</a>
-        <a href="contato.html">Contato</a>
+        <a href="index.php">Início</a>
+        <a href="sobre.php">Sobre</a>
+        <a href="serviço.php">Serviços</a>
+        <a href="contato.php">Contato</a>
     </nav>
     
     <div class="container">
